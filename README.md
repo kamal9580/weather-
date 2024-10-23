@@ -1,5 +1,5 @@
 # Weather Web App
-Hosted link: https://weather-app-coral-theta-66.vercel.app/
+Hosted link: https://weather-liard-seven.vercel.app/
 
 ## Overview
 
